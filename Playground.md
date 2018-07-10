@@ -1,3 +1,2 @@
 One
-2
-Three
+Two
